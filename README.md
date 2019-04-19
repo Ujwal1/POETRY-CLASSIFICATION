@@ -1,3 +1,3 @@
 # POETRY-CLASSIFICATION
 
-Refer to Writeup.dox
+Refer to Writeup.docx
